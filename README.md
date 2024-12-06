@@ -11,5 +11,5 @@
 
    Administrator        | Special User           | Default User
    ---------------------| -----------------------| -------------------
-   **Username** : admin | **Username** : special | **Username** : user
-   **Password** : admin | **Password** : special | **Password** : user
+   **Username** : admin | **Username** : special | **Username** : jm
+   **Password** : root | **Password** : special | **Password** : user
