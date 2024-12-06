@@ -67,24 +67,12 @@
     </div>
 </div>
   <div class="row">
-   <div class="col-md-12">
-      <div class="panel">
-        <div class="jumbotron text-center">
-           <h1>Thank You! for your support and love.</h1>
-           <p> <strong>OSWA-INV v2</strong> way more better then <strong> v1 </strong>.
-           </br>If you have a question regarding the usage of this applications, please ask on <a href="https://www.facebook.com/oswapp" title="Facebook" target="_blank">Facebook</a> OSWA Fan page.</p>
-
-        </div>
-      </div>
-   </div>
-  </div>
-  <div class="row">
    <div class="col-md-4">
      <div class="panel panel-default">
        <div class="panel-heading">
          <strong>
            <span class="glyphicon glyphicon-th"></span>
-           <span>Highest Saleing Products</span>
+           <span>Highest Sold Products</span>
          </strong>
        </div>
        <div class="panel-body">
@@ -114,7 +102,7 @@
         <div class="panel-heading">
           <strong>
             <span class="glyphicon glyphicon-th"></span>
-            <span>LATEST SALES</span>
+            <span>Latest Sales</span>
           </strong>
         </div>
         <div class="panel-body">
