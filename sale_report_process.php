@@ -90,7 +90,7 @@ $results = '';
               <th>Buying Price</th>
               <th>Selling Price</th>
               <th>Total Qty</th>
-              <th>TOTAL</th>
+              <th>Total</th>
           </tr>
         </thead>
         <tbody>

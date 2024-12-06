@@ -96,8 +96,8 @@ body{
     text-transform: uppercase;
     letter-spacing: 1px;
     display: inline-block;
-    width: 250px;
-    background-color: #3498DB;
+    width: 219px;
+    background-color: #aeb10d;
 }.header-date{
   color: #9b9b9b;
   margin-left: 20px;
@@ -156,7 +156,7 @@ body{
   top: 0;
   padding: 65px 0 0;
   height: 100%;
-  width: 250px;
+  width: 220px;
   background: #2a3542;
   border-right: 1px solid #ddd;
   text-align: center;
